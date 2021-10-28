@@ -1,3 +1,3 @@
-# A picture of a big shark.
-## https://bigshark.monster
-<a href="https://bigshark.monster"><p align="center"><img src="./bigshark.png"></p></a>
+# A picture of a baboon.
+## https://baboon.monster
+<a href="https://baboon.monster"><p align="center"><img src="./baboon.png"></p></a>
